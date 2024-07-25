@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Łukasz Wielopolski
+
+[![](https://img.shields.io/badge/-Łukasz%20Wielopolski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/lukasz-wielopolski/)
+[![](https://img.shields.io/badge/-@wluk-%23181717?style=flat-square&logo=github)](https://github.com/wluk)
+[![](https://img.shields.io/badge/-@wlukasz91-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/wlukasz91)
+
 
 <!--
 **wluk/wluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
