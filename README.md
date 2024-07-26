@@ -1,9 +1,6 @@
 ## Hi there!👋
 
-[![](https://img.shields.io/badge/-Łukasz%20Wielopolski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/lukasz-wielopolski/)  
-[![](https://img.shields.io/badge/-@wluk-%23181717?style=flat-square&logo=github)](https://github.com/wluk)  
-[![](https://img.shields.io/badge/-@wlukasz91-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/wlukasz91) 
-
+<img src="./developer.jpg" width="400" align="right"/>
 
 🌱 I’m a Full stack developer with a masters degree in Computer Application.
 As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web.
@@ -42,6 +39,11 @@ I am passionate about Web Developer & I enjoy learning new things.
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+</br></br>
+
+[![](https://img.shields.io/badge/-Łukasz%20Wielopolski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/lukasz-wielopolski/)  
+[![](https://img.shields.io/badge/-@wluk-%23181717?style=flat-square&logo=github)](https://github.com/wluk)  
+[![](https://img.shields.io/badge/-@wlukasz91-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/wlukasz91)
 
 
 <!--
