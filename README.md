@@ -1,7 +1,3 @@
-<style>
-  h2{ border-bottom: 0; }
-</style>
-
 # Hi there!👋
 
 <img src="./developer.jpg" width="300" align="right" alt="https://pixabay.com/illustrations/developer-programmer-coding-8764521"/>
