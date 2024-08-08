@@ -27,9 +27,7 @@
   <img src="./assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="./assets/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px"><img src="./assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="./assets/svg/dev/tools/jetbrains_rider.svg" alt="jetbrains_rider" style="vertical-align:top; margin:4px">
-</p>
-
-#
+</p><br/>
 
 [![](https://img.shields.io/badge/-Łukasz%20Wielopolski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/lukasz-wielopolski/)  
 [![](https://img.shields.io/badge/-@wluk-%23181717?style=flat-square&logo=github)](https://github.com/wluk)
