@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=33&pause=1000&center=true&vCenter=true&lines=Hi+there!%F0%9F%91%8B)](https://git.io/typing-svg)
 <img src="./assets/jpg/developer.jpg" width="230" align="right" alt="https://pixabay.com/illustrations/developer-programmer-coding-8764521"/>
 
 👨‍💻 I'm a passionate .NET developer with experience in designing and building web applications. I love creating server-side solutions and enyoj in automating daily processes to streamline workflows.
